@@ -1,0 +1,11 @@
+C:\Users\tux\AppData\Local\Temporary Projects\Calculator\bin\Debug\Calculator.exe
+C:\Users\tux\AppData\Local\Temporary Projects\Calculator\bin\Debug\Calculator.pdb
+C:\Users\tux\AppData\Local\Temporary Projects\Calculator\bin\Debug\Calculator.xml
+C:\Users\tux\AppData\Local\Temporary Projects\Calculator\obj\x86\Debug\Calculator.Resources.resources
+C:\Users\tux\AppData\Local\Temporary Projects\Calculator\obj\x86\Debug\Calculator.vbproj.GenerateResource.Cache
+C:\Users\tux\AppData\Local\Temporary Projects\Calculator\obj\x86\Debug\Calculator.exe
+C:\Users\tux\AppData\Local\Temporary Projects\Calculator\obj\x86\Debug\Calculator.xml
+C:\Users\tux\AppData\Local\Temporary Projects\Calculator\obj\x86\Debug\Calculator.pdb
+C:\Users\tux\Dropbox\College\Visual Basic\Calculator\Calculator\obj\x86\Debug\Calculator.exe
+C:\Users\tux\Dropbox\College\Visual Basic\Calculator\Calculator\obj\x86\Debug\Calculator.xml
+C:\Users\tux\Dropbox\College\Visual Basic\Calculator\Calculator\obj\x86\Debug\Calculator.pdb
